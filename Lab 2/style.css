@@ -1,16 +1,10 @@
 h1{
     font: italic bold 26px arial, sans-serif;
-
     color : black;
-    
     background : Gainsboro;
-    
     border : 5px solid black;
-    
     padding : 20px;
-    
     width : 650px;
-    
     border-radius: 15px;
 }
 h1:hover{
